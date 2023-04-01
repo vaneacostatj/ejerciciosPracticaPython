@@ -1,5 +1,5 @@
 [![MastHead](https://cwsmgmt.corsair.com/hybris/tlc/systems/images/tlc_systems_banner_i7300.png)]()
-# momento1_nuevasTecnologias
+# Ejercicios NuevasTecnologias
 
 **Integrantes**
   - Duvan Yesid Vivas Bermudez
